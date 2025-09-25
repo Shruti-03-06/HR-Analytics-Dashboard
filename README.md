@@ -45,12 +45,6 @@ The dataset includes the following columns:
 
 ---
 
-## 📸 Dashboard Preview
-
-![HR Analytics Dashboard](dashboard_screenshot.png)  
-*(Replace this with a screenshot from your Power BI dashboard)*
-
----
 
 ## 💡 Business Insights Gained
 
